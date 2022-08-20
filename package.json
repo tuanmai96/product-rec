@@ -1,0 +1,22 @@
+{
+  "name": "product-rec",
+  "version": "1.0.0",
+  "description": "Product recommendation web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanmai96/product-rec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanmai96/product-rec/issues"
+  },
+  "homepage": "https://github.com/tuanmai96/product-rec#readme",
+  "dependencies": {
+    "snoowrap": "^1.23.0"
+  }
+}
